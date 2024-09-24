@@ -1,0 +1,296 @@
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.dll
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\franc\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive\Desktop\CONBOTS\20221101_CCS_v03.2\CentralControlSoftware_testSize\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_4\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_4\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_4\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive\Desktop\CONBOTS\CCS_v03_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\Rug.Osc.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v03_5_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\Rug.Osc.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v04_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\Rug.Osc.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_1\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\Rug.Osc.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_2\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\bin\Debug\Rug.Osc.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_3\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\bin\Debug\Rug.Osc.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_4\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.manifest
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.application
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.dll
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe.manifest
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.application
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\Conbots\Desktop\CONBOTS\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\Rug.Osc.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_5\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\bin\Debug\Rug.Osc.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_6\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\bin\Debug\Rug.Osc.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_7\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.config
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\bin\Debug\CentralControlSoftware.pdb
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\bin\Debug\Rug.Osc.dll
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\bin\Debug\NatNetML.xml
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.AssemblyReference.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.CCS.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.Properties.Resources.resources
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.GenerateResource.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CoreCompileInputs.cache
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe.manifest
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.application
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.csproj.CopyComplete
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.exe
+C:\Users\integ\OneDrive - Università Campus Bio-Medico di Roma\PhD\CONBOTS\Integration\Central Control Software\CCS_v05_8\CentralControlSoftware\CentralControlSoftware\obj\Debug\CentralControlSoftware.pdb
