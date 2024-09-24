@@ -1,0 +1,10 @@
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CONBOTS_violin\MotiveTrigger\MotiveTrigger\bin\x86\Debug\MotiveTrigger.exe.config
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CONBOTS_violin\MotiveTrigger\MotiveTrigger\bin\x86\Debug\MotiveTrigger.exe
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CONBOTS_violin\MotiveTrigger\MotiveTrigger\bin\x86\Debug\MotiveTrigger.pdb
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CONBOTS_violin\MotiveTrigger\MotiveTrigger\bin\x86\Debug\NatNetML.dll
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CONBOTS_violin\MotiveTrigger\MotiveTrigger\bin\x86\Debug\NatNetML.xml
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CONBOTS_violin\MotiveTrigger\MotiveTrigger\obj\x86\Debug\MotiveTrigger.csproj.AssemblyReference.cache
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CONBOTS_violin\MotiveTrigger\MotiveTrigger\obj\x86\Debug\MotiveTrigger.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CONBOTS_violin\MotiveTrigger\MotiveTrigger\obj\x86\Debug\MotiveTrigger.csproj.CopyComplete
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CONBOTS_violin\MotiveTrigger\MotiveTrigger\obj\x86\Debug\MotiveTrigger.exe
+C:\Users\Workstation\Desktop\AlessiaNoccaro\CONBOTS_violin\MotiveTrigger\MotiveTrigger\obj\x86\Debug\MotiveTrigger.pdb
